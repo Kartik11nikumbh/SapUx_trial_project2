@@ -1,0 +1,3 @@
+ID,EmpId,EmpFirstName,EmpLastName,EmpDeptName,EmpLoc,EmpSalary,EmpRole
+
+1,101,Kartik,Nikumbh,Sap,Banglore,4.5,Developer
